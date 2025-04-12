@@ -1,7 +1,7 @@
 ---
 title: "GSS challange More Data"
 author: "Peter Dang"
-date: "put the date here"
+date: "4/12/25"
 output: html_document
 ---
 
